@@ -116,7 +116,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Louisa Emmons</gco:CharacterString>
+                                <gco:CharacterString>Me</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations &amp; Modeling Laboratory - ACRESP</gco:CharacterString>
