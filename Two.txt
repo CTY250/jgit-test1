@@ -7,3 +7,5 @@ That's a terrible pun
 I know, I'll be here all day and night
 Oh no
 Oh yes
+
+Please disregard all jokes in this repository, they are horrible and should not be appreciated
